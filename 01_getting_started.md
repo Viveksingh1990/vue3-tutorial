@@ -10,11 +10,12 @@ You can create a new Vue project using the Vue CLI. Replace **"my-vue-project"**
 
 `vue create my-vue-project`
 
-### Development Workflow:
-a. Change the directory to your new project:
+## Development Workflow:
+
+### a. Change the directory to your new project:
 
 `cd my-vue-project`
 
-b. Start the development server:
+### b. Start the development server:
 
 `npm run serve`
