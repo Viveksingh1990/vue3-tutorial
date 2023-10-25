@@ -16,7 +16,6 @@ Here's a description of each folder and the key files within them:
 * `main.js`: This is the entry point for your Vue application. It initializes your Vue app, sets up global configurations, and mounts the root component.
 
 This structure is organized to promote modularity, making it easier to manage and scale your Vue 3 application. Depending on the size and complexity of your project, you can add more directories or further organize your code to suit your specific needs.
-![image](https://github.com/Viveksingh1990/vue3-tutorial/assets/34119931/65a7b84f-fdf7-409f-a128-b5765777ab63)
 
 
 
